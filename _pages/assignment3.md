@@ -1,6 +1,7 @@
 ---
 title: Assignment 3
 author: Raymond Piller
+permalink: /assignment/3/
 img: //i.imgur.com/YTAduEX.jpg
 layout: single
 comments: true
