@@ -14,7 +14,7 @@ feature_home:
     title: Assignment 1
     excerpt: >
       This is a placeholder for Assignment 1.
-    # url: "/docs/configuration/"
+    url: /assignment/1/
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/VertigoRay/LTEC5200.ray.pillers.us/master/assets/images/mm-customizable-feature.png
@@ -22,7 +22,7 @@ feature_home:
     title: Assignment 2
     excerpt: >
       This is a placeholder for Assignment 2.
-    # url: "/docs/configuration/"
+    url: /assignment/2/
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/VertigoRay/LTEC5200.ray.pillers.us/master/assets/images/mm-customizable-feature.png
@@ -30,7 +30,7 @@ feature_home:
     title: Assignment 3
     excerpt: >
       This is a placeholder for Assignment 3.
-    # url: "/docs/configuration/"
+    url: /assignment/3/
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/VertigoRay/LTEC5200.ray.pillers.us/master/assets/images/mm-customizable-feature.png
@@ -38,7 +38,7 @@ feature_home:
     title: Assignment 4
     excerpt: >
       This is a placeholder for Assignment 4.
-    # url: "/docs/configuration/"
+    url: /assignment/4/
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/VertigoRay/LTEC5200.ray.pillers.us/master/assets/images/mm-customizable-feature.png
@@ -46,7 +46,7 @@ feature_home:
     title: Assignment 5
     excerpt: >
       This is a placeholder for Assignment 5.
-    # url: "/docs/configuration/"
+    url: /assignment/5/
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/VertigoRay/LTEC5200.ray.pillers.us/master/assets/images/mm-customizable-feature.png
@@ -54,7 +54,7 @@ feature_home:
     title: Assignment 6
     excerpt: >
       This is a placeholder for Assignment 6.
-    # url: "/docs/configuration/"
+    url: /assignment/6/
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
 
