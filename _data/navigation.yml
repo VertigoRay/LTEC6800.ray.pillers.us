@@ -2,15 +2,15 @@
 main:
   - title: Assignment 1
     url: /assignment/1/
-  - title: Assignment 2
+  - title: 2
     url: /assignment/2/
-  - title: Assignment 3
+  - title: 3
     url: /assignment/3/
-  - title: Assignment 4
+  - title: 4
     url: /assignment/4/
-  - title: Assignment 5
+  - title: 5
     url: /assignment/5/
-  - title: Assignment 6
+  - title: 6
     url: /assignment/6/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
