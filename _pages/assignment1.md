@@ -12,7 +12,7 @@ tags:
 - LTEC 6800
 ---
 <p>
-  <img src="/assets/images/PlayToLearn.png" style="max-width: none;">
+  <img src="https://github.com/VertigoRay/LTEC6800.ray.pillers.us/raw/master/assets/images/PlayToLearn.png" style="max-width: none;">
   <a href="https://www.canva.com/design/DADdC791Y4w/view?utm_content=DADdC791Y4w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
     Play to Learn!
   </a>
