@@ -43,5 +43,5 @@ tags:
 1. Yang, Y.-T. C. (2012, September). Building virtual cities, inspiring intelligent citizens: Digital games for developingstudents’problem solving and learning motivation. Computers & Education, 59(2), 365-377. doi:/10.1016/j.compedu.2012.01.012
 1. Kim, H., & Ke, F. (2016, May 9). Effects of game-based learning in an OpenSim-supported virtual environment on mathematical performance. Interactive Learning Environments, 25(4), 543-557. doi:10.1080/10494820.2016.1167744
 
-*I added the references here as well because they are not ver legible in the footer of the infographic.*
-*Normally references would show up in alphabetical order, but I wanted the numbering to be consistent with the footnotes used in the infographic.*
+*I added the references here as well because they are not very legible in the footer of the infographic.*
+*Normally, references would be listed in alphabetical order, but I wanted the numbering to be consistent with the footnotes used in the infographic.*
