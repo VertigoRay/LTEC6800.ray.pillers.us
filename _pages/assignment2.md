@@ -36,7 +36,7 @@ gallery:
   alt: However, it's really just teaching the concepts of LAN vs. WAN.
   title: 
 ---
-1. **Title of the Game:** CyberCIEGE
+1. **Title of the Game:** [CyberCIEGE](https://my.nps.edu/web/c3o/cyberciege)
 
 2. **Game Developer/Studio:** Center for Information Systems Security Studies and Research (CISR) at NPS, and Rivermind, Inc., of San Mateo, CA.
 
