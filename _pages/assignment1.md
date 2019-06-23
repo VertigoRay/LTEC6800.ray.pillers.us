@@ -1,11 +1,12 @@
 ---
-title: Assignment 1
+title: Play To Learn!
 author: Raymond Piller
 permalink: /assignment/1/
 img: //i.imgur.com/YTAduEX.jpg
 layout: single
 comments: true
 tags:
+- Infographic
 - Assignment
 - LTEC
 - LTEC PhD
