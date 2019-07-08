@@ -331,6 +331,10 @@ Expertise and advisors across every discipline will be required to create a game
 
 This assignment was very telling about the strains that are faced when trying to think through the minutiae required for thorough game design. While this game is well thought out, there are lots of details that are missing and would take months to think through exhaustively.
 
+This template helped me to flesh out details that I would have glossed over if left unguided. One of the things I struggled with the most was trying to decide how much detail to include.
+
+My IT background leads me to realize that there will be countless barriers and support needs that will arise during the development phase of this game. This is the reason that IT planners tend to plan a project and then double all of the timelines. It is always easier on paper than in reality and quick fixes are either not quick or have unexpected rippling effects. I can only begin to imagine the waves that will be encountered when taking on a game design such as this.
+
 # References
 
 - Steven D. Levitt, John A. List, Susanne Neckermann, & Sally Sadof. (2011). The Impact of Short-term Incentives on Student Performance *. Retrieved from https://econresearch.uchicago.edu/sites/econresearch.uchicago.edu/files/Levitt_List_Neckermann_Sadoff_Short-Term_Incentives_September2011.pdf
