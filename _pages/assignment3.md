@@ -14,33 +14,6 @@ tags:
 - Video Games
 - MMO
 ---
-- [Game Title](#Game-Title)
-- [Game Genre](#Game-Genre)
-- [Target Audience](#Target-Audience)
-- [Subject Area(s)](#Subject-Areas)
-- [Topics Covered](#Topics-Covered)
-- [Learning Objectives/Standards Addressed](#Learning-ObjectivesStandards-Addressed)
-- [Goals](#Goals)
-- [Rules](#Rules)
-- [Storyline](#Storyline)
-- [Characters/Roles](#CharactersRoles)
-- [Problems/Tasks/Missions](#ProblemsTasksMissions)
-- [Description of 3D Environments](#Description-of-3D-Environments)
-- [Levels and Progression](#Levels-and-Progression)
-- [Number of Players](#Number-of-Players)
-- [Estimated Length of Gameplay](#Estimated-Length-of-Gameplay)
-- [Cognitive Processes Required for Gameplay](#Cognitive-Processes-Required-for-Gameplay)
-- [Skills Required for Gameplay](#Skills-Required-for-Gameplay)
-- [Content Integration](#Content-Integration)
-- [Engagement Strategies](#Engagement-Strategies)
-- [Scaffolding Strategies](#Scaffolding-Strategies)
-- [Assessment Strategies](#Assessment-Strategies)
-- [Major Purpose of the Game Integration](#Major-Purpose-of-the-Game-Integration)
-- [Implementation Plan](#Implementation-Plan)
-- [Perceived Barriers & Support Needs](#Perceived-Barriers--Support-Needs)
-- [Reflection on the Assignment](#Reflection-on-the-Assignment)
-- [References](#References)
-
 # Game Title
 
 New Eden's Oasis
@@ -71,7 +44,10 @@ MMORPE (Massively Multi-player Online Role-Playing Education)
 
 # Learning Objectives/Standards Addressed
 
-- 
+I struggled a lot with this section.
+I wasn't sure if I needed to be supplying official education standards or a generalized list of objectives and standards.
+After digging for official standards, I realized that, given the premace of the game, any game design standard could be implemented on a per quest basis.
+Thus, this section becomes a huge *wildcard* with the response: *it depends on what is trying to be accomplished*.
 
 # Goals
 <!--
@@ -85,17 +61,27 @@ MMORPE (Massively Multi-player Online Role-Playing Education)
 
 # Rules
 
-Many MMOs are RPGs that rely purely on combat scenarios to level a player. While combat scenarios will definitely be available for a type of progression, they will not be the fundamental leveling mechanism in this game. The combat scenarios will be required to hone teamwork, collaboration, and resource gathering that is needed for other areas of the game. The other areas of the game will include questing, crafting, dungeons, and events.
+Many MMOs are RPGs that rely purely on combat scenarios to level a player.
+While combat scenarios will definitely be available for a type of progression, they will not be the fundamental leveling mechanism in this game.
+The combat scenarios will be required to hone teamwork, collaboration, and resource gathering that is needed for other areas of the game.
+The other areas of the game will include questing, crafting, dungeons, and events.
 
 Rules will vary based on what the player must do in order to complete a scenario, such as questing, dungeons, crafting, or events.
 
 # Storyline
 
-The once united Earth has spread across the galaxy and universe through the discovery of a wormhole network that had a node just outside the Sol System. After thousands of years of exploration and colonization, an unknown, unexpected, and seemingly unprovoked event caused the wormhole network to collapsed. This left hundreds of thousands of colonies stranded to fend for themselves. For millennia, many of them endured while a vast majority fell to extinction. A millennium has passed, and the Earth is but a fable as the human race begins to reform governmental structures and organize themselves.
+The once united Earth has spread across the galaxy and universe through the discovery of a wormhole network that had a node just outside the Sol System.
+After thousands of years of exploration and colonization, an unknown, unexpected, and seemingly unprovoked event caused the wormhole network to collapsed.
+This left hundreds of thousands of colonies stranded to fend for themselves.
+For millennia, many of them endured while a vast majority fell to extinction.
+A millennium has passed, and the Earth is but a fable as the human race begins to reform governmental structures and organize themselves.
 
-Cloning and mind uploading (the ability to upload human memories to a central data center) are basic technologies that have been maintained by all of the factions from the initial, brutal space expansion era. Warp technology, however, was lost when the connection to Earth was severed as all warp-capable ships were manufactured solely in the Sol System.
+Cloning and mind uploading (the ability to upload human memories to a central data center) are basic technologies that have been maintained by all of the factions from the initial, brutal space expansion era.
+Warp technology, however, was lost when the connection to Earth was severed as all warp-capable ships were manufactured solely in the Sol System.
 
-No sentient alien species have been discovered. However, there are many alien species that have been discovered and proven useful for resources, food, and domestication. Many predator species have also been discovered, but due to the savage nature of these species, they are easily kept at bay by base defenses.
+No sentient alien species have been discovered.
+However, there are many alien species that have been discovered and proven useful for resources, food, and domestication.
+Many predator species have also been discovered, but due to the savage nature of these species, they are easily kept at bay by base defenses.
 
 # Characters/Roles
 
@@ -136,13 +122,22 @@ Examples of quests include:
 - Creating genetically superior plants by breeding plants with desired traits.
 - Survival tactics where the character is placed in a scenario where they must use their wits to survive a grueling or time-based trial. The trial may require eating, lodging, and wild-life survival skills. Alternatively, surviving may require concocting an antidote to a poison that was ingested.
 
-Crafting is the second of the two primary methods for advancing a character. Crafting outcomes will always vary depending on the in-game weather, geographic locations (such as altitude), and countless other factors. An expert smith might be able to create an exquisite hammer 99% of the time, but occasionally they will be tired and forget to watch the temperature of the oven and the quality will be affected. Likewise, a master baker from the coast may need to re-discover cooking times and temperatures needed for a basic loaf of bread while they are exploring a mountainous region. Artistically inclined players may enjoy designing new art, sculptures, buildings, and ships; of course, they will need *virtual* ingredients to bring their designs to *virtual* reality.
+Crafting is the second of the two primary methods for advancing a character.
+Crafting outcomes will always vary depending on the in-game weather, geographic locations (such as altitude), and countless other factors.
+An expert smith might be able to create an exquisite hammer 99% of the time, but occasionally they will be tired and forget to watch the temperature of the oven and the quality will be affected.
+Likewise, a master baker from the coast may need to re-discover cooking times and temperatures needed for a basic loaf of bread while they are exploring a mountainous region.
+Artistically inclined players may enjoy designing new art, sculptures, buildings, and ships; of course, they will need *virtual* ingredients to bring their designs to *virtual* reality.
 
-Dungeons are special scenarios where players team up to accomplish a shared task. Dungeons are mostly randomized events with a common theme, allowing a learning objective to be taught over and over again without muscle memory coming into play and reducing the ability for blogs and walkthroughs to be written on the exact solution. Dungeons may also include escape room elements with puzzles, decryption, acrostics, hidden messages, scavenging, magnetic locks, and other acceptable riddles.
+Dungeons are special scenarios where players team up to accomplish a shared task.
+Dungeons are mostly randomized events with a common theme, allowing a learning objective to be taught over and over again without muscle memory coming into play and reducing the ability for blogs and walkthroughs to be written on the exact solution.
+Dungeons may also include escape room elements with puzzles, decryption, acrostics, hidden messages, scavenging, magnetic locks, and other acceptable riddles.
 
-Events are special opportunities that may occur for a short period of time or indefinitely. Events may be based on a real holiday bringing social experiences to the game.
+Events are special opportunities that may occur for a short period of time or indefinitely.
+Events may be based on a real holiday bringing social experiences to the game.
 
-Many mini-games may also be created in-game to assist with real-world research. This is a lot like how [Project Discovery](https://www.projectdiscovery.org) enlisted thousands of gamers to determine if exoplanets exist; [much like Eve Online has done](https://www.eveonline.com/discovery). Previously, Eve Online had a mini-game that helped the [Human Protein Atlas](http://www.proteinatlas.org/) [map the human genome](https://www.wired.co.uk/article/eve-online-project-discovery-human-protein-atlas).
+Many mini-games may also be created in-game to assist with real-world research.
+This is a lot like how [Project Discovery](https://www.projectdiscovery.org) enlisted thousands of gamers to determine if exoplanets exist; [much like Eve Online has done](https://www.eveonline.com/discovery).
+Previously, Eve Online had a mini-game that helped the [Human Protein Atlas](http://www.proteinatlas.org/) [map the human genome](https://www.wired.co.uk/article/eve-online-project-discovery-human-protein-atlas).
 
 # Description of 3D Environments
 
@@ -240,32 +235,73 @@ MMOG (Massively Multi-player Online Game)
 
 Since the game is an MMO with teaching objectives at every level of education, this game can ostensibly be played indefinitely.
 
-A single play-session should include some form of accomplishment to occur in the session. The play-session should be normally completed within an hour and have an upper limit of two hours. Some special-events or advanced dungeons may last longer.
+A single play-session should include some form of accomplishment to occur in the session.
+The play-session should be normally completed within an hour and have an upper limit of two hours.
+Some special-events or advanced dungeons may last longer.
 
 # Cognitive Processes Required for Gameplay
 
-| Section | Yes/No | Details |
-| -- | -- | -- |
-| **Remembering** | Yes | Players will need to remember many things; e.g.: 1) where the quest giver is, in order to return and complete the quest, 2) key combinations and shortcuts, 3) world map locations |
-| **Understanding** | Yes | Players will need to understand the gameplay, but more importantly, they will need to understand basic RPG strategies. Most understandings of subjects will be taught/assessed in-game. Understanding the impact of decisions made is an important concept that will need to be embraced. |
-| **Applying** | Yes | Students will need to apply what they been taught in order to advance in levels and become more powerful in-game. |
-| **Analyzing** | Yes | Players will slowly gain access to more technology that provides them with more data that allows them to interact with the world in new ways. As understanding is gained, so will the need to analyze more information to optimize technology and game needs. |
-| **Evaluating** | Yes | Evaluating the results of actions will be an on-going effort in this game. As the user progresses to higher technology, a greater understanding of the principals will be required. If the player is heading in a direction (technological wise) that they do not want to be in, they can adjust their path and get different results. |
-| **Creating** | Yes | Crafting will be a part of this game. It will include art, food, architecture, music, and many more creative subjects. |
+## Remembering
+
+Players will need to remember many things; e.g.: 1) where the quest giver is, in order to return and complete the quest, 2) key combinations and shortcuts, 3) world map locations
+## Understanding
+
+Players will need to understand the gameplay, but more importantly, they will need to understand basic RPG strategies.
+Most understandings of subjects will be taught/assessed in-game.
+Understanding the impact of decisions made is an important concept that will need to be embraced.
+## Applying
+
+Students will need to apply what they been taught in order to advance in levels and become more powerful in-game.
+## Analyzing
+
+Players will slowly gain access to more technology that provides them with more data that allows them to interact with the world in new ways.
+As understanding is gained, so will the need to analyze more information to optimize technology and game needs.
+## Evaluating
+
+Evaluating the results of actions will be an on-going effort in this game.
+As the user progresses to higher technology, a greater understanding of the principals will be required.
+If the player is heading in a direction (technological wise) that they do not want to be in, they can adjust their path and get different results.
+## Creating
+
+Crafting will be a part of this game.
+It will include art, food, architecture, music, and many more creative subjects.
 
 # Skills Required for Gameplay
 
-| Section | Yes/No | Details |
-| -- | -- | -- |
-| **Critical thinking** | Yes | Quests will sometimes rely on the player to think critically about the scenario and whether or not it can be completed without assistance. |
-| **Problem solving** | Yes | Crafting will be affected by the environment and other conditions outside of the player's control; this will require a deeper understanding of what's required to craft and what variables are causing problems with the crafting process. |
-| **Decision making** | Yes | There will usually be many ways to solve a problem with crafting or complete scenario. As such, decisions will need to be thought through and evaluated for optimal results. |
-| **Creativity** | Yes |  |
-| **Communication** | Yes | Quest work will often be intertwined with that of friends and can be completely jointly or with assistance. Those quests that require individual effort will be done in a dungeon where only a single quester can enter each dungeon instance. |
-| **Collaboration** | Yes | To excel in an MMOG, collaboration is required. In this game, the collaboration will be many-faceted and will be augmented by scenarios developed by the player's real-life teacher. |
-| **Psychomotor skills** | Yes | Any computer gaming will likely emphasize coordinates physical activity with at least the hands and fingers. This game is no different. |
+## Critical thinking
+
+Quests will sometimes rely on the player to think critically about the scenario and whether or not it can be completed without assistance.
+
+## Problem solving
+
+Crafting will be affected by the environment and other conditions outside of the player's control; this will require a deeper understanding of what's required to craft and what variables are causing problems with the crafting process.
+
+## Decision making
+
+There will usually be many ways to solve a problem with crafting or complete scenario.
+As such, decisions will need to be thought through and evaluated for optimal results.
+
+## Creativity
+
+Artisitc creativiy will be needed for many quests, especially the ones focused on design or art.
+
+## Communication
+
+Quest work will often be intertwined with that of friends and can be completely jointly or with assistance.
+Those quests that require individual effort will be done in a dungeon where only a single quester can enter each dungeon instance.
+
+## Collaboration
+
+To excel in an MMOG, collaboration is required.
+In this game, the collaboration will be many-faceted and will be augmented by scenarios developed by the player's real-life teacher.
+
+## Psychomotor skills
+
+Any computer gaming will likely emphasize coordinates physical activity with at least the hands and fingers.
+This game is no different.
+
 <!--
-| **Other** |  |  |
+## Other
 -->
 
 # Content Integration
@@ -273,12 +309,13 @@ A single play-session should include some form of accomplishment to occur in the
 *(How is academic content provided and used?)*
 -->
 
-| Section | Yes/No |
-| -- | -- |
-| **This game requires prior knowledge.** |  |
-| **This game teaches academic content.** |  |
-
-**Content integration strategies and rationale:** *(Explain your content integration strategies and rationale in detail.)*
+Basic content will be created for basic levels of education.
+More advanced education will need to be designed by either contracted (by this game studio) or independent educators.
+As with any *new technology*, there will be a learning curve for creating content.
+However, there will be a content creation studio that will streamline the process and make it as easy as createing a slideshow in PowerPoint.
+Just like in PowerPoint, a basic template can be generate and the content filled in.
+Also just like in PowerPoint, the designer can start from scratch and create as much or as little as they want.
+A level of standards must be met for anything released to and accessible by the public, but for private/internal/development use, there will be no standards enforced.
 
 # Engagement Strategies
 
