@@ -34,7 +34,7 @@ High School Students
 # Duration
 
 The game should be created in about 40 hours.
-No more than two hours a day is expect for the duraction four weeks.
+No more than two hours a day is expected for the duration of four weeks.
 
 # Game Design Task
 
@@ -42,11 +42,11 @@ The students will be coming up with their own game with only the following guida
 
 - It must demonstrate the flow of liquid.
 - It must present challenges to complete the level.
-- At least five levels that get progressively more dificult are required.
+- At least five levels that get progressively more difficult are required.
 
 # The Main Purpose of the Game Design Task
 
-The game design will allow students to demonstrate a working knowledge of how gravity and physics affects liquids.
+The game design will allow students to demonstrate a working knowledge of how gravity and physics affect liquids.
 By creating a game with these concepts, they will show how much learning was accomplished in the camp.
 
 # Software Selection and Justification
@@ -70,29 +70,29 @@ I also believe that it teaches programming concepts well without the need to mem
 
 # Individual vs. Collaborative Game Design
 
-This is be an individual activity with collaborative excercises.
-Several times a week, each students will be randomly assigned to a new partner or group for the purpose of validating ideas and designs off of other people.
-Students that are already familiar with Scratch and have completed their work, may assist other students with their progress in order to earn bonus credit; for me this will mean they can get choose a snack from my personal stash.
+This is an individual activity with collaborative exercises.
+Several times a week, each student will be randomly assigned to a new partner or group for the purpose of validating ideas and designs off of other people.
+Students that are already familiar with Scratch and have completed their work, may assist other students with their progress in order to earn bonus credit; for me, this will mean they can get choose a snack from my personal stash.
 
 # Procedures
 
-The camp is 6 weeks long. This activity will be last the middle four weeks.
+The camp is 6 weeks long. This activity will be for the middle four weeks.
 During the initial week of camp, the students will learn the basics of programming and game design.
-During the four weeks of the activity, the students will learn concepts at the beginning of the day that can be directly applied to the progress of theit individual activity.
+During the four weeks of the activity, the students will learn concepts at the beginning of the day that can be directly applied to the progress of their individual activity.
 
 ## Week One
 
 The first week will include the following introductory activities:
 
 - Create a concept for the game; ideas should not be given to the students, but here are a few for the teachers:
-  - Liquid flowing from tubes needs to hit target.
+  - Liquid flowing from tubes needs to hit the target.
   - Liquid needs to fill a target container.
   - Liquid needs to be removed from a target container.
 - Pick a design theme, browse the internet for existing artwork or ideas for creating own.
   - If creating own, create a few samples on the computer to ensure capabilities.
 - Sketch levels on paper.
 - Design in-game tutorial on paper.
-- Get approval of game design from teacher.
+- Get an approval of the game design from the teacher.
 
 ## Week Two
 
@@ -109,9 +109,9 @@ The first week will include the following introductory activities:
 
 ## Week Four
 
-- Create in-game tutorial.
+- Create an in-game tutorial.
 - Finalize changes to the game based on beta tester feedback.
-- Play and review each others games.
+- Play and review each other's games.
 - Final day: reflect individually on the challenges and experiences of the activity. Share with the class.
 
 # Research Questions
