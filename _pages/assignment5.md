@@ -11,30 +11,30 @@ tags:
 - LTEC PhD
 - LTEC 6800
 ---
-# Gamify Authoring Learning Games, Sims, and Virtual Environments (LTEC 5240) at the University of North Texas.
+# Gamify Authoring Learning Games, Sims, and Virtual Environments (LTEC 5240) at the University of North Texas
 
 This course is exclusively offered in the Maymester, and it was a very strenuous endeavor.
-Over the course of three weeks, there were two game designs and nine blog posts.
-The first of the games was a beginning-to-end game; which wasa board game with start and finish points on the board.
+Over three weeks, there were two game designs and nine blog posts.
+The first of the games was a beginning-to-end game; which was a board game with start and finish points on the board.
 The second game was a digital game designed in [Scratch](https://scratch.mit.edu).
 While scratch is easy enough to use, the short timeline led to a very stressful scenario.
-Personally, I spent a considerable amount of time working with my classmates to improve their game functionality.
+I spent a considerable amount of time working with my classmates to improve their game functionality.
 While collaboration is always encouraged in the forum, I gained little from the endeavor; except a "thank you" from both the student and the instructor.
-While it was genuinely a selfless act, it could have been incentivized with a gamification.
-While, I think an entire course should be gamified for maximum implication, I will focus on the gamification of the digiital game designe project.
+While it was genuinely a selfless act, it could have been incentivized with gamification.
+While I think an entire course should be gamified for maximum implication, I will focus on the gamification of the digital game design project.
 
 Unfortunately, we lose access to course materials after a course is completed. So, I will have to describe [my experience in LTEC 5240 from memory and the notes in my course blog](https://ltec5240.ray.pillers.us).
 The gist of the assignment was to create a design document and then create the game.
-The design document described the game features, audience, and game play.
+The design document described the game features, audience, and gameplay.
 This was the second and final assignment, and it took place mostly during the second week of the course.
 With such a short timeline and the professor being at a conference during the second week of class, student engagement and motivation was very low.
 However, it could have been kept high, even in the absence of the professor, through gamification.
-Encouraging student though gamification techniques will enhance engagement, motivation, enjoyment, and create a more productive learning experience (Bohyun, 2015).
+Encouraging students through gamification techniques will enhance engagement, motivation, enjoyment, and create a more productive learning experience (Bohyun, 2015).
 The gamification strategies that will be employed for this learning activity are some of the most popular and will be: points, boosters, levels, leaderboards, and badges.
 
-Future work should go into expanding this endeavor accross the entire course (and arguably all UNT LTEC courses).
+Future work should go into expanding this endeavor across the entire course (and arguably all UNT LTEC courses).
 Especially at the doctoral level with the cohort model, gamified learning across the entire curriculum could bring the students together like never seen before.
-I really think these other great gamification strategies could also be implemented at a higher level: PvP quiz battles, open badges, and cohort or program-wide leader boards.
+I think these other great gamification strategies could also be implemented at a higher level: PvP quiz battles, open badges, and cohort or program-wide leader boards.
 
 ## Gamification Design
 
@@ -60,7 +60,7 @@ Points would be immediately earned by accomplishing tasks:
   - An assignment turned-in on the due date would get 1 point.
   - An assignment turned-in one day before the due date would get 2 points.
   - An assignment turned-in two days before the due date would get 3 points and so on.
-- Provide an accepted answers to a questions in the question forum.
+- Provide an acceptable answer to a question in the forum.
   ![PVP Battle Quiz](https://i.imgur.com/nT3VtFH.png)
   - Additional points are awarded for well-liked answers.
   - Question askers can also earn points by asking well-liked questions.
@@ -77,7 +77,7 @@ Points would be immediately earned by accomplishing tasks:
 
 ### Boosters
 
-Boosters allow temporary or permanent boosts to the the way the game is played.
+Boosters allow temporary or permanent boosts to the way the game is played.
 "Boosters allow people to play the game better; to power up their game-play.
 If you think about Super Mario's star ... you get to play the game with more power." (Chou, 2019)
 
@@ -89,7 +89,7 @@ The booster will be granted at level 4.
 
 #### Rational
 
-- Boosters make the desired actions more effect and efficient (Chou, 2019).
+- Boosters make the desired actions more effective and efficient (Chou, 2019).
 - Graphical elements are one of the two most significant game elements of game-based learning (Subhash & Cudney, 2018). 
 
 ### Levels
@@ -99,11 +99,11 @@ As levels increase, the student experience will evolve and improve.
 
 #### Strategies
 
-Contenct (user interface) unlocking is a substancial achievement with measureable benefits. 
+Content (user interface) unlocking is a substantial achievement with measurable benefits.
 
 ##### Level 1
 
-- Ablity to see all course materials.
+- Ability to see all course materials.
 - Can start the tasks, or should I say quests?
 
 *All students start at this level.*
@@ -138,9 +138,9 @@ Contenct (user interface) unlocking is a substancial achievement with measureabl
 
 A leaderboard will help students ensure they are keeping pace with the other students in the class.
 Leaderboards should include an all-time, course, and assignment leaderboard.
-We will focus on the assignment leaderboard.
+We will focus on the assignment's leaderboard.
 
-![All Time Leader Board](https://i.imgur.com/gT8RUE3.png)
+![All-Time Leader Board](https://i.imgur.com/gT8RUE3.png)
 
 #### Strategies
 
@@ -152,7 +152,7 @@ The leaderboard will help drive motivation
 
 - Leaderboards acknowledge student achievement in relation to their peers (Tsay et al., 2018, p. 5,11).
 - Review shows that leaderboards, et al., are important game elements (Subhash & Cudney, 2018, p. 205).
-- Students routinely check the leaderboard and "calculate how to surpases people" on the leaderboard (Kocadere & Çağlar, 2018, p. 16).
+- Students routinely check the leaderboard and "calculate how to surpass people" on the leaderboard (Kocadere & Çağlar, 2018, p. 16).
 
 ### Badges
 
@@ -164,7 +164,7 @@ The leaderboard will help drive motivation
   - The first student to *like* something that goes viral (viral defined by the professor) will earn a bandwagon badge (which of course also comes with points).
 - Being active late at night, one-time.
 - Being active on the weekend, one-time.
-- Final project ranked badges: gold, silver, and copper.
+- Ranked badges for the final project: gold, silver, and copper.
   ![LTEC 5240 First Place Final Project](https://i.imgur.com/poI4ecm.png)
   ![LTEC 5240 Second Place Final Project](https://i.imgur.com/cmWdpHU.png)
   ![LTEC 5240 Third Place Final Project](https://i.imgur.com/C2o51DJ.png)
@@ -176,7 +176,7 @@ The leaderboard will help drive motivation
 
 ## Gamified Online Collaborative Learning
 
-The gamification platform should be setup and maintained by Information Technology (IT) professionals.
+The gamification platform should be set up and maintained by Information Technology (IT) professionals.
 This section assumes that budgets have already been approved, IT has already been involved, and the platform is ready for use.
 
 With at least several months of anticipation, the instructor should ensure the system is functioning and create a student profile to walk-through the assignment and learning activities.
@@ -188,14 +188,14 @@ New quests (aka modules or instruction sets) will be unlocked as the student pro
 ![Quests, battles, and accomplishments](https://i.imgur.com/NqVuKlW.png)
 
 The Game Design Document and the game development will be done collaboratively, and points will be awarded equally to both students.
-However, individual progress through the modules and assesssments are still graded individually even if collaboration is used; it is allowed and expected. 
-Students will be guided through the Game Design Document with a number of quests and refreshers designed around the built-in arcade system.
+However, individual progress through the modules and assessments are still graded individually even if collaboration is used; it is allowed and expected. 
+Students will be guided through the Game Design Document with several quests and refreshers designed around the built-in arcade system.
 
 ![Addictive arcade games for scaffolding](https://i.imgur.com/IQuBe8w.png)
 
 Once the Game Design Document is approved by the professor, the game design portion of the assignment will commence.
-The final game design will submitted in a forum for all students to see.
-Every student, not team, will be required to place three ranked (gold, silver, and copper) votes for the games developed by all of the other teams; they cannot rank their own team.
+The final game design will be submitted in a forum for all students to see.
+Every student, not team, will be required to place three ranked (gold, silver, and copper) votes for the games developed by all of the other teams; they cannot rank their team.
 Gold is worth three points, silver is worth two points, and copper is worth one point.
 The total points will be summed and the ranked leaders will receive ranked badges depicting their placement in their profile.
 All students will receive the points awarded by the voting.
@@ -209,14 +209,14 @@ I requested a test course on [UNT's Canvas](https://unt.instructure.com), but I 
 I quickly found [Accord LMS](https://www.accordlms.com), but it felt like a cheaply made system.
 I wanted something that felt more like a game.
 I honestly considered custom development, but I knew that would not be a valid consideration for the scope of a single assignment.
-As I trogged on across the internet, I found myself at my wits end.
+As I trogged on across the internet, I found myself at my wit's end.
 Just when I thought that the ideal platform didn't exist, I found myself outside a home...page.
 The home...page had laughter, music, and conversations.
 I could hear the rolling of dice and the sound of chips hitting the table.
 What form of home...page was this?
 
 Turns out, I had stumbled upon [Growth Engineering](https://www.growthengineering.co.uk).
-Growth Engineering's [Academy LMS](https://www.growthengineering.co.uk/academy-lms/) is build entirely around gamification.
+Growth Engineering's [Academy LMS](https://www.growthengineering.co.uk/academy-lms/) wass built entirely around gamification.
 Academy LMS has [all of the gamification my heart desired](https://www.growthengineering.co.uk/academy-lms/academy-lms-feature-list/) and more:
 
 - Points (Experience Points (XP)) (Bohyun, 2015; Kocadere & Çağlar, 2018; Subhash & Cudney, 2018; Tsay et al., 2018)
@@ -236,7 +236,7 @@ Additionally, there are many classroom-specific features build-in:
   - Managers (Teachers)
   - Tutors
   - Experts
-- Learnder Assessments
+- Learner Assessments
   - Assessments
   - Certifications
   - Compliance testing
@@ -251,14 +251,14 @@ Additionally, there are many classroom-specific features build-in:
   - FAQs
   - Experts
 - Reporting
-- Customisation
+- Customization
   - Re-branding
   - Custom Domains
 - Integrations
   - ADFS (UNT's authentication)
 
 This was just the icing on the cake, the list was a mile long.
-The only downside is that I needed to schedule time for a demo, and that required a meeting which I could fit into my calendar this week.
+The only downside is that I needed to schedule a time for a demo, and that required a meeting which I could fit into my calendar this week.
 Unfortunately, I did not get a chance to play with the program, but I look forward to investigating it in the future.
 
 ## References
